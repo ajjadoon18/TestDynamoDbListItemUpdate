@@ -1,6 +1,6 @@
 # TestDynamoDbListItemUpdate
 
-Just experimenting aroud if dynamo db can update specific properties of specific item in a list.
+Just experimenting around if dynamo db can update specific properties of specific item in a list.
 
 1. Identify role to use it would look something like this 
 ```
